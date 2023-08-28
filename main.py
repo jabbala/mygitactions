@@ -1,6 +1,6 @@
 
 def hello():
-    """ Hello function"""
+    """Hello function"""
     print("hi")
 
 

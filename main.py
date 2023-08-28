@@ -1,12 +1,12 @@
+
 def hello():
-    """ Hello function
-    """
+    """ Hello function"""
     print("hi")
 
 
 def bye():
-    """Bye Function
-    """
+    """Bye Function"""
     print("bye")
+
 
 print(hello())
